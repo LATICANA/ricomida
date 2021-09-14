@@ -1,0 +1,60 @@
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+
+}
+
+.principal {
+    max-width: 45%;
+    float: left;
+    margin-right: 15px;
+}
+
+header{
+    display: inline-block;
+
+}
+
+.carousel-indicators li {
+    border-radius: 50%;
+}
+
+section{
+    display: inline-block;
+}
+
+
+.rico {
+    font-family: 'Lobster', cursive;   
+}
+
+
+footer{
+    font-family: 'Lobster', cursive; 
+    color: #ffffff;
+}
+
+p {
+ font-family: 'Cabin', sans-serif;
+ font-weight: 400;
+}
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+}
+
+h6 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    
+}
+
+.carousel-indicators {
+    top: 60px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
